@@ -1,0 +1,30 @@
+
+An Exemplar List of Requirements (for general guidance only, not an exhaustive list)
+
+ User log-in (different access roles are needed such as Admin, individual, "guest"
+ Browse services by category
+ Service availability request
+ Book service/activity
+ Student registration, logins and validation checks
+ Booking confirmation 
+ Ability to cancel/update event details/bookings/an individual's personal details
+ Ability to access system using suitable Web enabled mediators
+ Community events need to be searchable not merely University events/information sources
+
+
+
+1. Produce a plan of work
+2. Identify users, clients and service "audience"
+3. Gather and refine a set of initial user requirements
+4. Analyse these using a suitable methodology
+5. Produce a list of functional and non-functional requirements
+6. Model these using more than one modelling technique and notation
+7. Produce an E-R model or set of models, fully normalise and refine your ERM
+8. Produce a user interface design and DBMS/Web interface design
+9. Implement and fully test the system with "real" users
+10. Refine solution iteratively as necessary, providing full justification for all modifications
+11. Demonstrate a "user-centric" design paradigm
+12. Demonstrate the system to the "client", defend solution through Q & A
+
+Jobs that need doing
+

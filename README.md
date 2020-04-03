@@ -1,0 +1,2 @@
+# GROUP_12_KIOSK
+ GROUP_12_KIOSK useful files
